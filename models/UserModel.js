@@ -11,6 +11,13 @@ const Users = db.define('users',{
     email:{
         type: DataTypes.STRING
     },
+    no_hp:{
+        type: DataTypes.INTEGER
+
+    },
+    image: {
+        type: DataTypes.STRING
+    },
     password:{
         type: DataTypes.STRING
     },
