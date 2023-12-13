@@ -9,10 +9,12 @@ const Users = db.define('users',{
         type: DataTypes.STRING
     },
     email:{
-        type: DataTypes.STRING
+        type: DataTypes.STRING,
+        unique: true
     },
     no_hp:{
-        type: DataTypes.INTEGER
+        type: DataTypes.CHAR,
+        unique: true
 
     },
     image: {
