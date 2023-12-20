@@ -1,8 +1,7 @@
-<center>
+
 # DriverFit <br>
  
-DriverFit is an application that has the main feature of detecting fatigue by targeting vehicle drivers with the aim of minimising accidents mainly due to fatigue.
-</center>
+DriverFit is an application that has the main feature of detecting fatigue by targeting vehicle drivers with the aim of minimising accidents mainly due to fatigue. <br>
 
 url : http://localhost:3000
 
