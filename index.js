@@ -21,21 +21,21 @@ const port = process.env.PORT || 3030;
 
 // Google Cloud Storage configuration
 const storage = new Storage({
-  projectId: 'capstone-project-ch2-ps206',
+  projectId: 'projectId',
   keyFilename: './config/keyfile.json',
 });
 
-const bucketName = 'bucketfitdrive';
+const bucketName = 'name bucket';
 
 const multerStorage = multer.memoryStorage();
 
 const upload = multer({ storage: multerStorage });
 
 const db = mysql.createConnection({
- host: '34.128.99.177',
+ host: 'Ip Publik SQL',
  user: 'root',
- password: '12345',
- database: 'db_driverfit'
+ password: 'passwaord',
+ database: 'name db'
 });
 
 db.connect((err) => {
