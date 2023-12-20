@@ -25,7 +25,10 @@ url : http://localhost:3000
 
 <img width="418" alt="image" src="https://github.com/DriverFit/Backend/assets/103325979/f14ac369-b1f9-4b5e-a8f9-2eae8fa95071"> <br>
 
-This architecture is for login and register, Machine Learning models are directly applied to Mobile without being Deployed to Google Cloud Platform.
+This architecture is for login and register, Machine Learning models are directly applied to Mobile without being Deployed to Google Cloud Platform. <br>
+We use Cloud services to deploy the API. we create APIs using the Node.js programming language. we use SQL storage with Mysql and to store images using Google Storage.
+
+
 
 
 # Depedency
