@@ -2,6 +2,8 @@
 url : http://localhost:3000
 
 # Service
- POST /register
- POST /login
- GET /users/id
+**POST /register** <br>
+ 
+ **POST /login** <br>
+ 
+ **GET /users/id** <br>
