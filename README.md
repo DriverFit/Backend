@@ -1,4 +1,8 @@
-﻿# api_driverfit
+<center>
+ # DriverFit
+ DriverFit is an application that has the main feature of detecting fatigue by targeting vehicle drivers with the aim of minimising accidents mainly due to fatigue.
+</center>
+
 url : http://localhost:3000
 
 # Service
