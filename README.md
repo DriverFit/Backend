@@ -7,9 +7,12 @@ url : http://localhost:3000
 
 # Service
 **POST /register** <br>
+<img width="640" alt="image" src="https://github.com/DriverFit/Backend/assets/103325979/c9445fbe-21f2-4f47-80e1-aff28b88f7e9"> <br>
 
  
  **POST /login** <br>
+ <img width="632" alt="image" src="https://github.com/DriverFit/Backend/assets/103325979/3fab826a-9d8f-4ea7-9268-fca35095cfc4"> <br>
+
  
  **GET /users/id** <br>
 
