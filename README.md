@@ -29,13 +29,13 @@ This architecture is for login and register, Machine Learning models are directl
 
 
 # Depedency
-bcrypt <br>
-body-parser <br>
-express <br>
-multer <br>
-mysql <br>
-nodemon <br>
-path <br>
+- bcrypt <br>
+- body-parser <br>
+- express <br>
+- multer <br>
+- mysql <br>
+- nodemon <br>
+- path <br>
 
 
 
