@@ -35,7 +35,7 @@ We use Cloud services to deploy the API. we create APIs using the Node.js progra
 
 
 # Depedency
-- bcrypt <br>
+- bcrypt [https://www.npmjs.com/package/bcrypt] <br>
 - body-parser <br>
 - express <br>
 - multer <br>
