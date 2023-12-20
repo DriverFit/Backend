@@ -37,11 +37,11 @@ We use Cloud services to deploy the API. we create APIs using the Node.js progra
 # Depedency
 - [bcrypt](https://www.npmjs.com/package/bcrypt) <br>
 - [body-parser](https://www.npmjs.com/package/body-parser) <br>
-- express <br>
-- multer <br>
-- mysql <br>
-- nodemon <br>
-- path <br>
+- [express](https://www.npmjs.com/package/express)  <br>
+- [multer](https://www.npmjs.com/package/multer) <br>
+- [mysql](https://www.npmjs.com/package/mysql) <br>
+- [nodemon](https://www.npmjs.com/package/nodemon) <br>
+- [path](https://www.npmjs.com/package/path) <br>
 
 
 
