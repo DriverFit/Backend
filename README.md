@@ -21,13 +21,13 @@ url : http://localhost:3000
 
 
 # Depedency
-bcrypt
-body-parser
-express
-multer
-mysql
-nodemon
-path
+bcrypt <br>
+body-parser <br>
+express <br>
+multer <br>
+mysql <br>
+nodemon <br>
+path <br>
 
 
 
